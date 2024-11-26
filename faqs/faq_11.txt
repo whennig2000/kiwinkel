@@ -1,0 +1,2 @@
+What is `datalad clone`?
+`datalad clone` is used to clone a dataset, similar to `git clone`. It copies an entire dataset, including all of its data and metadata, to your local machine or to another location. For large datasets, DataLad ensures efficient handling by only copying the necessary files and metadata.

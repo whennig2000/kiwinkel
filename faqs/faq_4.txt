@@ -1,0 +1,2 @@
+How do I install DataLad?
+You can install DataLad via Python's package manager `pip`. The command is: "pip install datalad". Alternatively, you can use a package manager like `conda`: "conda install -c conda-forge datalad".

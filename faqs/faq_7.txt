@@ -1,0 +1,2 @@
+Can I use DataLad with existing Git repositories?
+Yes, DataLad can be used with existing Git repositories. You can convert a Git repository into a DataLad dataset by running: "datalad create --source EXISTING_GIT_REPO". This will create a DataLad dataset that links to the existing Git repository.

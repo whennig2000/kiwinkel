@@ -1,0 +1,2 @@
+How do I get help with DataLad?
+You can get help with any DataLad command by using the `--help` flag: "datalad QUERY --help". Additionally, you can check out the official DataLad documentation at https://docs.datalad.org/.

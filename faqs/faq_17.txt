@@ -1,0 +1,2 @@
+How do I explore and search for files in a DataLad dataset?
+To explore a dataset, you can use: "datalad search QUERY". This command searches for files or metadata across datasets.

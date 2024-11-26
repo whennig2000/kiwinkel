@@ -1,0 +1,2 @@
+How do I share a DataLad dataset?
+You can share a dataset by pushing it to a remote repository using: "datalad push". You need to first configure a remote, typically a Git repository or DataLad-specific storage.

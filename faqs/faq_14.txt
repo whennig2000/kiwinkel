@@ -1,0 +1,2 @@
+What is Git Annex?
+Git Annex is a tool that DataLad uses to manage large files in Git repositories. It helps store large files outside of Git, tracking only their metadata (e.g., file size, hash, etc.) in Git. DataLad integrates seamlessly with Git Annex to allow version control over large data.

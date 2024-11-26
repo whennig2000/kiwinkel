@@ -1,0 +1,2 @@
+How do I add data to a DataLad dataset?
+To add data to a dataset, use the `datalad add` command: "datalad add FILE_OR_DIRECTORY". This stages the files for inclusion in the dataset, and you can later commit them as part of the dataset’s version history.

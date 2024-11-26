@@ -1,0 +1,2 @@
+How do I revert changes in a DataLad dataset?
+To revert changes in a DataLad dataset, you can use: "datalad restore FILE_OR_DIRECTORY". This restores the file or directory to its previous version, similar to how Git would do a checkout.

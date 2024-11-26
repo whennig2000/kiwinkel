@@ -1,0 +1,2 @@
+How do I retrieve data from a remote dataset?
+To retrieve data from a remote DataLad dataset, use the `datalad get` command: "datalad get FILE_OR_DIRECTORY". This command fetches the actual data files (not just the metadata) from the remote dataset.

@@ -1,0 +1,2 @@
+What is DataLad?
+DataLad is an open-source data management tool built on top of Git. It is designed for handling datasets, version control, and sharing data in a reproducible way, especially for scientific data.

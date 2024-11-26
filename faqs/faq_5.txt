@@ -1,0 +1,2 @@
+What is a dataset in DataLad?
+A dataset in DataLad is a collection of files, directories, and metadata that are managed together as a unit. It is similar to a Git repository but optimized for large data and scientific workflows. Datasets can be versioned, shared, and replicated across different locations.

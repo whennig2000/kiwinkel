@@ -1,0 +1,2 @@
+What are some common use cases for DataLad?
+Some common use cases for DataLad include: Managing large scientific datasets and making them shareable; Version control for research data and experiments; Reproducible data analysis workflows; Collaborating on data-intensive projects with versioned datasets; Storing and retrieving data from remote locations or cloud storage

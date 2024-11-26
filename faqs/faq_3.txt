@@ -1,0 +1,2 @@
+How does DataLad work with Git?
+DataLad uses Git to track changes to datasets and their metadata. However, instead of tracking individual files, DataLad tracks entire datasets as a unit. It leverages Git's capabilities for versioning and sharing, but extends it to handle large datasets, which are often impractical to store directly in Git repositories.

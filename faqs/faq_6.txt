@@ -1,0 +1,2 @@
+How do I create a new DataLad dataset?
+To create a new dataset, simply run the following command in your terminal: "datalad create DATASET_NAME". This will initialize a new dataset in the specified directory.

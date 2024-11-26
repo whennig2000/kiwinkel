@@ -1,0 +1,2 @@
+Can DataLad work with cloud storage providers?
+Yes, DataLad can work with cloud storage providers, such as Amazon S3, Google Cloud Storage, and others. You can configure remotes to store your dataset in these services, providing scalable and reliable storage.

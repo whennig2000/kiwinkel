@@ -1,0 +1,4 @@
+[submodule "datalad-resources"]
+	path = datalad-resources
+	url = ./datalad-resources
+	datalad-id = 9553090a-0df8-402e-9fa0-0df90bdcc46c

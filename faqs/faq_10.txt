@@ -1,0 +1,2 @@
+What is the difference between `datalad save` and `git commit`?
+While both `datalad save` and `git commit` record changes in a repository, `datalad save` extends this by also handling the management of large files, datasets, and metadata. It automatically tracks all files and adds them to the dataset, while Git commits only track changes within the Git repository.

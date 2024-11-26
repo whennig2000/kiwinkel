@@ -1,0 +1,2 @@
+How does DataLad handle large datasets?
+DataLad is optimized for large datasets by using Git and extensions like Git Annex to manage large files efficiently. It allows users to track data without storing it directly in the Git repository, keeping the repository lightweight and performant.

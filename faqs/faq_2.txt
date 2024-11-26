@@ -1,0 +1,2 @@
+What does DataLad do?
+DataLad helps you organize, track, and share large datasets by providing version control and a simple command-line interface for managing files. It integrates with Git to manage dataset versions, metadata, and dependencies, making it easier to collaborate and maintain reproducible workflows.
